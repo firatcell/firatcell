@@ -20,7 +20,7 @@
 <li> 🌱 I am learning new libraries </li>
 <li> 💬 I speak English and Turkish </li>
 <li> 🏠 I live in London </li>
-<li> 📌 I'm currently looking for a new opportunities </li>
+<li> 📌 I'm currently looking for new opportunities </li>
                                                                                                        
 ## Languages and Tools
 <div id="badges" align="center">
