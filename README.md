@@ -1,5 +1,5 @@
 
-              [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+my+name+is+Firat;and+I'm+a+Data+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+my+name+is+Firat;and+I'm+a+Data+Analyst)](https://git.io/typing-svg)
 <!--
 **firatcell/firatcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
