@@ -34,3 +34,12 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
+
+## &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/firatcell">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firatcell&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firatcell&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
