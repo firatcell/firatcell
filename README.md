@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/firat-ali-komurcu/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
+    <a href="https://public.tableau.com/app/profile/firat6571">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+    </a>
     <a href="mailto:firatkom@outlook.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
     </a> 
