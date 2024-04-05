@@ -16,11 +16,11 @@
 </div>
 
 ## About me
-<li> 🔭 I’m currently working on side projects </li>
-<li> 🌱 I am learning new libraries </li>
+<!--li> 🔭 I’m looking for ideas </li> -->
+<li> 🌱 I'm always looking for learning opportunities </li>
 <li> 💬 I speak English and Turkish </li>
-<li> 🏠 I live in London </li>
-<li> 📌 I'm currently looking for new opportunities </li>
+<li> 🏠 I live in the Greater London Area </li>
+<!-- <li> 📌 I'm currently looking for new opportunities </li> -->
                                                                                                        
 ## Languages and Tools
 <div id="badges" align="center">
@@ -39,7 +39,8 @@
 
 <p align="center">
 <a href="https://github.com/firatcell">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firatcell&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firatcell&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firatcell&show_icons=true&theme=defaul&include_all_commits=true&count_private=true&hide_border=true"/>
+<a href="https://git.io/streak-stats"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=firatcell&hide_border=true&card_width=380&hide_total_contributions=true" alt="GitHub Streak" /></a>  
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firatcell&layout=compact&langs_count=8&theme=default&hide_border=true"/>
 </a>
 </p>
